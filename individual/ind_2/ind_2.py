@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 if __name__ == "__main__":
     # Открываем файл и считываем текст
     with open("text.txt", "r", encoding="utf-8") as file:
